@@ -1,4 +1,4 @@
 # Welcome!
 Angular Documentation Tour of Heroes project
 
-[Source](https://angular.io/tutorial){:target="_blank"}
+<a href="https://angular.io/tutorial/" target="_blank">Project Source</a>
